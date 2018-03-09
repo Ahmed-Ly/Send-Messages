@@ -1,0 +1,11 @@
+<meta>
+    <script src="client.lua" type="client" />
+	<export function="outputmsgs" http="true" />
+	<export function="outputmsg" type="client" /> 
+		<!-- Args: bool outputmsg ( string text , int r=0, int g=0, b=0)
+	text = The text to be outputed
+	r = The amount of R in RGB (valid: 0-255 )
+	g = The amount of G in RGB (valid: 0-255 )
+	b = The amount of B in RGB (valid: 0-255 )
+ -->
+	</meta>		
