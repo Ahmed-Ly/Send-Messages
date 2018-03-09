@@ -1,4 +1,3 @@
-local playerMoney = getPlayerMoney ( localPlayer )
 local messages =  { }
 local sx, sy = guiGetScreenSize ( )
 function outputmsgs (text,r,g,b)
